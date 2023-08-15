@@ -1,3 +1,3 @@
 # test
 
-This is a demo of Github
+This is a demo of Guthub
